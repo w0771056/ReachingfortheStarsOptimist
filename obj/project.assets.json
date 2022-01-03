@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\roryr\\Desktop\\ReachingfortheStars\\ReachingfortheStarsOptimist\\ReachingfortheStarsOptimist.csproj",
+      "projectUniqueName": "C:\\Users\\roryr\\source\\repos\\ReachingfortheStarsOptimist\\ReachingfortheStarsOptimist.csproj",
       "projectName": "ReachingfortheStarsOptimist",
-      "projectPath": "C:\\Users\\roryr\\Desktop\\ReachingfortheStars\\ReachingfortheStarsOptimist\\ReachingfortheStarsOptimist.csproj",
+      "projectPath": "C:\\Users\\roryr\\source\\repos\\ReachingfortheStarsOptimist\\ReachingfortheStarsOptimist.csproj",
       "packagesPath": "C:\\Users\\roryr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\roryr\\Desktop\\ReachingfortheStars\\ReachingfortheStarsOptimist\\obj\\",
+      "outputPath": "C:\\Users\\roryr\\source\\repos\\ReachingfortheStarsOptimist\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\roryr\\AppData\\Roaming\\NuGet\\NuGet.Config",
